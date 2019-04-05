@@ -1,0 +1,5 @@
+Flask==1.0.2
+Flask-Admin==1.5.3
+peewee==3.9.3
+wtf-peewee==3.0.0
+xmltodict==0.12.0
